@@ -1,5 +1,0 @@
-streamlit
-chromadb
-numpy
-requests
-python-dotenv
